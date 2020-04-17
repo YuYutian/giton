@@ -1,0 +1,8 @@
+{
+  "MaxProcessNum": 4,
+  "IP": "127.0.0.1",
+  "Port": 8899,
+  "AcceptedIPList": ["127.0.0.2"],
+  "CompilingEnvironment": "test",
+  "QueueMaxSize": 10
+}
